@@ -1,2 +1,2 @@
 # firstrepo
-auther sagar singh
+author; sagar singh
